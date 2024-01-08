@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">Frequencia_app</string>
+    <string name="app_name">frequency_app</string>
+    <string name="title_frequency">Novo Lembrete</string>
+    <string name="create_button">create</string>
+    <string name="cancel_button">cancel</string>
+    <string name="reminder_name">Nome do lembrete</string>
+    <string name="reminder_date">Data do lembrete</string>
+    <string name="name_txt">Nome</string>
+    <string name="date_txt">Data</string>
+    <string name="date">01/10/2023</string>
+    <string name="delete_image_content_description">delete button</string>
+    <string name="editor_image_content_description">edit button\n</string>
+    <string name="insert_reminder">inserir lembrete</string>
+    <string name="delete_all_reminder">deletar todos lembretes</string>
 </resources>
