@@ -1,4 +1,4 @@
-package com.brzas.frequencia_app
+package com.brzas.frequency_app
 
 import org.junit.Test
 
